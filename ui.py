@@ -27,7 +27,7 @@ root.title("Movie Recommender")
 root.geometry("400x300")
 
 # Label
-label = tk.Label(root, text="Enter a movie:")
+label = tk.Label(root, text="Enter a movie that you want recommendations based off:")
 label.pack(pady=5)
 
 # Text entry

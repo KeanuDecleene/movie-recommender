@@ -13,7 +13,6 @@ It focuses on building a simple movie recommender system as a practical way to e
 
 ## Features
 
-- Set up project repository in GitHub
 - Load a sample dataset of movies
 - Implement a basic recommender (e.g., popularity-based or random)
 - Experiment with similarity-based recommendations (content-based filtering)
